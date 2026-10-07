@@ -1,8 +1,7 @@
 # R MD5 Toolkit
 
-带 R 品牌标识的 Windows 桌面 MD5 工具箱，使用 Python + PySide6。
-本仓库独立维护 UI 版本，计算核心来自同作者的
-[MD5_Collision](https://github.com/fly12323/MD5_Collision)。
+Windows 桌面 MD5 工具箱，使用 Python + PySide6。
+
 
 ![桌面界面](docs/desktop-preview.png)
 
